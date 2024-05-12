@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+|| Welcome to GitHub Pages ||
 
-#RAILWAY RESERVATION SYSTEM should be able to manage all the reservation related functions.
-#Each zone should have same functionalities. Each zone will stores the information about train name, 
-#train schedules, availability. 
-#The administrator should be able to enter any change related to the train information like change in train name, number etc. 
-#The system should be able to reserve seat in a train for a passenger. 
-#First the clerk will check for availability for the seats in a particular train on a specified date of journey. 
-#If it is available the clerk will reserve seats. 
-#The passenger will be given a unique PNR no. 
-#The system should be able to cancel a reservation. 
+RAILWAY RESERVATION SYSTEM should be able to manage all the reservation related functions.
+Each zone should have same functionalities. Each zone will stores the information about train name, 
+train schedules, availability. 
+The administrator should be able to enter any change related to the train information like change in train name, number etc. 
+The system should be able to reserve seat in a train for a passenger. 
+First the clerk will check for availability for the seats in a particular train on a specified date of journey. 
+If it is available the clerk will reserve seats. 
+The passenger will be given a unique PNR no. 
+The system should be able to cancel a reservation. 
 #The clerk will delete the entries in the system. 
 #The passenger can check their reservation status online by entering their PNR no. 
 #The system will display his current status like confirmed, RAC or waiting list. 
